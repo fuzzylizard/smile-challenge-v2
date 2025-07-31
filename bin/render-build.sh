@@ -4,8 +4,10 @@
 set -o errexit
 
 bundle install
-npm run build
+
 npm install --save-exact --save-dev esbuild
+npm run build
+
 bin/rails assets:precompile
 bin/rails assets:clean
 
