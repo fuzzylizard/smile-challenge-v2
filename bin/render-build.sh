@@ -5,6 +5,7 @@ set -o errexit
 
 bundle install
 npm run build
+npm install --save-exact --save-dev esbuild
 bin/rails assets:precompile
 bin/rails assets:clean
 
