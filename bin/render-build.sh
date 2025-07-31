@@ -8,7 +8,7 @@ bundle install
 npm install --save-exact --save-dev esbuild
 #npm run build
 
-bin/rails assets:precompile
+bin/rails assets:precompile --trace
 bin/rails assets:clean
 
 # If you have a paid instance type, we recommend moving
