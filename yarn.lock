@@ -326,7 +326,7 @@
 
 "@tailwindcss/cli@^4.1.11":
   version "4.1.11"
-  resolved "https://registry.npmjs.org/@tailwindcss/cli/-/cli-4.1.11.tgz"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/cli/-/cli-4.1.11.tgz#edeb8c241815188beb823460f9008c197d097ff0"
   integrity sha512-7RAFOrVaXCFz5ooEG36Kbh+sMJiI2j4+Ozp71smgjnLfBRu7DTfoq8DsTvzse2/6nDeo2M3vS/FGaxfDgr3rtQ==
   dependencies:
     "@parcel/watcher" "^2.5.1"
@@ -737,7 +737,7 @@ sourcemap-codec@^1.4.8:
 
 tailwindcss@4.1.11, tailwindcss@^4.1.11:
   version "4.1.11"
-  resolved "https://registry.npmjs.org/tailwindcss/-/tailwindcss-4.1.11.tgz"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.1.11.tgz#799af3e98c19c5baaefafc6e0c16304a0e684854"
   integrity sha512-2E9TBm6MDD/xKYe+dvJZAmg3yxIEDNRc0jwlNyDg/4Fil2QcSLjFKGVff0lAf1jjeaArlG/M75Ey/EYr/OJtBA==
 
 tapable@^2.2.0:
